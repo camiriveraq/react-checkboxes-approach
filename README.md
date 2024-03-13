@@ -1,3 +1,9 @@
+
+
+https://github.com/camiriveraq/react-checkboxes-approach/assets/163210661/bec612b6-d40d-404f-a725-2663fc1116b8
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
